@@ -1,0 +1,9 @@
+Building Knifemoney
+
+See doc/readme-qt.rst for instructions on building Knifemoney-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Knifemoney.
+
+See doc/build-*.txt for instructions on building knifemoneyd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Knifemoney.
